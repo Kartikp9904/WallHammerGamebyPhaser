@@ -1,6 +1,3 @@
-Name: - Kartik Patel
-Id: - 2330492
-
 1. i changed the logo of pelo to tav college and edited some text in splash that serves as intro of game.
 
 2. i changed the resolution of game it was like 1300px X 730px and i make that auto by adding type.pharse: auto and width : window.innerwidth and height: window.innerheight.
