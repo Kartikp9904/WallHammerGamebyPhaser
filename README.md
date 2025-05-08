@@ -11,3 +11,8 @@
 i have also attached the video and image of changes that i made.
 
 i hope you like it.
+
+
+firstly you have to clone this in main folder then you have to run this following commands in terminal
+• npm install
+• then npm run dev
